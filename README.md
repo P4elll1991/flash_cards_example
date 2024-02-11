@@ -7,7 +7,7 @@
    ```cmd
    ./flash_cards.exe --input ./params.json --output ./output.json
    START
-   Data written to .\output.json
+   Data written to ./output.json
    ```
    Где params.json - файл с параметрами генерации а output.json - путь до файла куда нужно записать сгенерированные карты
 
