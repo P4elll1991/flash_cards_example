@@ -5,7 +5,7 @@
 2. Откройте папку репозитория и в ней терминал
 3. В терминале выполните команду
    ```shell
-   .\flash_cards.exe --input .\params.json --output .\output.json
+   ./flash_cards.exe --input ./params.json --output ./output.json
    START
    Data written to .\output.json
    ```
