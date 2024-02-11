@@ -13,22 +13,23 @@
 
    ### Пример params.json:
    ```json
-   [
-    {
-        "NativeLang":"RU",
-	    "LearningLang":"EN",
-	    "Words": 1,
-	    "Topic": "Food & Cuisine",
-	    "CEFRLevel":"A1"
-    },
-    {
-        "NativeLang":"RU",
-	    "LearningLang":"EN",
-	    "Words": 5,
-	    "Topic": "Travel & Sightseeing",
-	    "CEFRLevel":"B1"
-    }
-]```
+	   [
+	    {
+	        "NativeLang":"RU",
+		    "LearningLang":"EN",
+		    "Words": 1,
+		    "Topic": "Food & Cuisine",
+		    "CEFRLevel":"A1"
+	    },
+	    {
+	        "NativeLang":"RU",
+		    "LearningLang":"EN",
+		    "Words": 5,
+		    "Topic": "Travel & Sightseeing",
+		    "CEFRLevel":"B1"
+	    }
+	]
+```
  ### Пример output.json:
    ```json
    [
