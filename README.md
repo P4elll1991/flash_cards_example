@@ -28,8 +28,7 @@
 	    "Topic": "Travel & Sightseeing",
 	    "CEFRLevel":"B1"
     }
-]
-   ```
+]```
  ### Пример output.json:
    ```json
    [
@@ -93,5 +92,4 @@
 		"Example": "Don't forget to buy a ticket for the concert.",
 		"ExampleTranslation": "Не забудь купить билет на концерт."
 	}
-]
-   ```
+]```
