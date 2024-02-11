@@ -4,10 +4,10 @@
 1. Скачайте репозиторий
 2. Откройте папку репозитория и в ней терминал
 3. В терминале выполните команду
-   ```bash
-   $ .\flash_cards.exe --input .\params.json --output .\output.json
-   $ START
-   $ Data written to .\output.json
+   ```shell
+   .\flash_cards.exe --input .\params.json --output .\output.json
+   START
+   Data written to .\output.json
    ```
    Где params.json - файл с параметрами генерации а output.json - путь до файла куда нужно записать сгенерированные карты
 
